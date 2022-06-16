@@ -1,1 +1,1 @@
-This change has been made from the main README.md on GitHub.
+How to be up to date in git
